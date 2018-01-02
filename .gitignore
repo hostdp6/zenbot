@@ -12,6 +12,7 @@ github
 config.js
 config.patch
 data/*
+simulations/*.html
 conf.js
 conf-*
 conf_*
